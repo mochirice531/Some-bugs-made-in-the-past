@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DE59CB01-C48A-A2BC-32E1-5F9EF95DC193}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/sp/uwu.cs">
+    <Files>
+      <File FileName="Assets/sp/FollowTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets/sp/playermove.cs" Line="74" Column="1" />
+      <File FileName="Assets/sp/FollowTarget_s.cs" Line="1" Column="1" />
+      <File FileName="Assets/sp/FollowTarget_j.cs" Line="18" Column="1" />
+      <File FileName="Assets/sp/uwu.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="uwu" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="sp" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="279d0944-317d-4feb-92aa-5b4ef7c0c020" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
